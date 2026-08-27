@@ -2,34 +2,55 @@
   {
     "id": "1",
     "image": {
-      "src": "images/rainydays2.jpeg",
-      "alt": "Overview of home-page for RainyDays online store"
-    },
-    "title": "RainyDays",
-    "description": "Online store for rain jackets, made for an introductory HTML and CSS course.",
-    "repository": "https://github.com/tominehaug/Rainydays",
-    "live": "https://tominehaug.github.io/Rainydays/"
-  },
-  {
-    "id": "2",
-    "image": {
-      "src": "images/science-museum2.jpeg",
+      "src": "images/science-museum.png",
       "alt": "Overview of home-page for Community Science Museum"
     },
     "title": "Community Science Museum",
-    "description": "Complete website for Community Science Museum, Trondheim. Semester project with HTML/CSS.",
+    "description": "Hjemmeside for et fiktivt vitenskapsmuseum laget med HTML og CSS. Prosjektet var en semesteroppgave.",
     "repository": "https://github.com/tominehaug/Semester-Project-1",
     "live": "https://tominehaug.github.io/Semester-Project-1/"
   },
   {
+    "id": "2",
+    "image": {
+      "src": "images/travel-blog.png",
+      "alt": "Overview of home-page for Root and Roam travel blog"
+    },
+    "title": "Root and Roam",
+    "description": "En reiseblogg laget med HTML, CSS og JavaScript. Bloggen er laget for et kurs i API og autentisering.",
+    "repository": "https://github.com/tominehaug/travel_blog",
+    "live": "https://tominehaug.github.io/travel_blog/"
+  },
+  {
     "id": "3",
     "image": {
-      "src": "images/rainydays-js2.jpeg",
-      "alt": "Overview of product-page for RainyDays online store"
+      "src": "images/sippr.png",
+      "alt": "Overview of start page for Sippr social media app"
     },
-    "title": "RainyDays w/JS",
-    "description": "RainyDays online store with JavaScript logic, made for an introductory JavaScript course.",
-    "repository": "https://github.com/tominehaug/Rainydays-w-js",
-    "live": "https://tominehaug.github.io/Rainydays-w-js/"
+    "title": "Sippr",
+    "description": "En sosial tekst- og bildedelingsplatform (primært app for mobil). Et eksamensprosjekt laget med HTML, CSS og JS.",
+    "repository": "https://github.com/tominehaug/sippr-app",
+    "live": "https://tominehaug.github.io/sippr-app/"
+  },
+  {
+    "id": "3",
+    "image": {
+      "src": "images/sippr.png",
+      "alt": "Overview of start page for Sippr social media app"
+    },
+    "title": "Sippr w/Tailwind CSS",
+    "description": "Et Tailwind-prosjekt som bygger på eksamensprosjektet Sippr, en tekst- og bildedelingsplatform.",
+    "repository": "https://github.com/tominehaug/sippr-design",
+    "live": "https://tominehaug.github.io/sippr-design/"
+  },
+  {
+    "id": "4",
+    "image": {
+      "src": "images/blitzbid.png",
+      "alt": "Overview of BlitzBid auction site"
+    },
+    "title": "BlitzBid",
+    "description": "Figma design for en auksjonsside for musikkvarer. Laget for et nylig semesterprosjekt.",
+    "figma": "https://github.com/tominehaug/Rainydays-w-js"
   }
 ]

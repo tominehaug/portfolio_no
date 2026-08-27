@@ -48,19 +48,31 @@ function displayProjects(projects) {
     const description = document.createElement("p");
     description.textContent = card.description;
 
-    const liveBtn = document.createElement("a");
-    liveBtn.textContent = "Live link";
-    liveBtn.href = card.live;
-
-    const gitBtn = document.createElement("a");
-    gitBtn.textContent = "GitHub Repo";
-    gitBtn.href = card.repository;
-
     cardDiv.appendChild(thumbnail);
     cardDiv.appendChild(title);
     cardDiv.appendChild(description);
-    cardDiv.appendChild(liveBtn);
-    cardDiv.appendChild(gitBtn);
+
+    if (card.live) {
+      const liveBtn = document.createElement("a");
+      liveBtn.textContent = "Live link";
+      liveBtn.href = card.live;
+      cardDiv.appendChild(liveBtn);
+    }
+
+    if (card.repository) {
+      const gitBtn = document.createElement("a");
+      gitBtn.textContent = "GitHub Repo";
+      gitBtn.href = card.repository;
+      cardDiv.appendChild(gitBtn);
+    }
+
+    if (card.figma) {
+      const figmaBtn = document.createElement("a");
+      figmaBtn.textContent = "Figma Design";
+      figmaBtn.href = card.figma;
+      cardDiv.appendChild(figmaBtn);
+    }
+
     container.appendChild(cardDiv);
   });
 }
