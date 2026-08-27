@@ -38,10 +38,9 @@
       "src": "images/sippr.png",
       "alt": "Overview of start page for Sippr social media app"
     },
-    "title": "Sippr w/Tailwind CSS",
+    "title": "Sippr m/Tailwind CSS",
     "description": "Et Tailwind-prosjekt som bygger på eksamensprosjektet Sippr, en tekst- og bildedelingsplatform.",
-    "repository": "https://github.com/tominehaug/sippr-design",
-    "live": "https://tominehaug.github.io/sippr-design/"
+    "repository": "https://github.com/tominehaug/sippr-design"
   },
   {
     "id": "4",
