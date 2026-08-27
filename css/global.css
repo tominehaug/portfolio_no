@@ -267,10 +267,12 @@ header a:hover {
   line-height: 1.5;
   color: black;
   text-decoration: none;
+  padding: 0px 5px;
 }
 
 .contact :first-child {
   border: dashed red 2px;
+  padding: 0px 5px;
 }
 
 .contact a {
