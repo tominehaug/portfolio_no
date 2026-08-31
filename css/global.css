@@ -194,14 +194,16 @@ header a:hover {
   max-width: 400px;
 }
 
-.card h3 {
+.card h3,
+.login-info h3 {
   font-family: "Carrois Gothic", sans-serif;
   font-weight: 600;
   font-size: 30px;
   color: red;
 }
 
-.card p {
+.card p,
+.login-info p {
   font-family: "Google Sans Code", monospace;
   font-size: 20px;
 }
@@ -223,6 +225,10 @@ header a:hover {
 .card a:hover {
   background-color: red;
   color: aliceblue;
+}
+
+.login-info {
+  margin-bottom: 50px;
 }
 
 /* details section */
