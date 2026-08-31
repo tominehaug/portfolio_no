@@ -39,7 +39,7 @@ header a:hover {
 /* welcome section */
 
 #welcome {
-  height: 525px;
+  height: 550px;
   display: flex;
   flex-direction: column;
   gap: 10px;
