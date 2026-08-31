@@ -56,6 +56,7 @@ function displayProjects(projects) {
       const liveBtn = document.createElement("a");
       liveBtn.textContent = "Live link";
       liveBtn.href = card.live;
+      liveBtn.target = "_blank";
       cardDiv.appendChild(liveBtn);
     }
 
@@ -63,6 +64,7 @@ function displayProjects(projects) {
       const gitBtn = document.createElement("a");
       gitBtn.textContent = "GitHub Repo";
       gitBtn.href = card.repository;
+      gitBtn.target = "_blank";
       cardDiv.appendChild(gitBtn);
     }
 
@@ -70,6 +72,7 @@ function displayProjects(projects) {
       const figmaBtn = document.createElement("a");
       figmaBtn.textContent = "Figma Design";
       figmaBtn.href = card.figma;
+      figmaBtn.target = "_blank";
       cardDiv.appendChild(figmaBtn);
     }
 
