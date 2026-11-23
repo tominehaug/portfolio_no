@@ -6,7 +6,7 @@
       "alt": "Overview of home-page for Community Science Museum"
     },
     "title": "Community Science Museum",
-    "description": "Hjemmeside for et fiktivt vitenskapsmuseum laget med HTML og CSS. Prosjektet var en semesteroppgave.",
+    "description": "Tidlig prosjekt i HTML og CSS. Hjemmeside for et fiktivt vitenskapsmuseum. Eget design.",
     "repository": "https://github.com/tominehaug/Semester-Project-1",
     "live": "https://tominehaug.github.io/Semester-Project-1/"
   },
@@ -17,39 +17,30 @@
       "alt": "Overview of home-page for Root and Roam travel blog"
     },
     "title": "Root and Roam",
-    "description": "En reiseblogg laget med HTML, CSS og JavaScript. Bloggen er laget for et kurs i API og autentisering.",
+    "description": "Root and Roam er en reiseblogg med HTML, CSS og JavaScript. Bloggen er utviklet for et kurs i API og autentisering. Eget design.",
     "repository": "https://github.com/tominehaug/travel_blog",
     "live": "https://tominehaug.github.io/travel_blog/"
   },
   {
     "id": "3",
     "image": {
-      "src": "images/sippr.png",
-      "alt": "Overview of start page for Sippr social media app"
-    },
-    "title": "Sippr",
-    "description": "En sosial tekst- og bildedelingsplatform (primært app for mobil). Et eksamensprosjekt laget med HTML, CSS og JS.",
-    "repository": "https://github.com/tominehaug/sippr-app",
-    "live": "https://tominehaug.github.io/sippr-app/"
-  },
-  {
-    "id": "3",
-    "image": {
-      "src": "images/sippr.png",
-      "alt": "Overview of start page for Sippr social media app"
-    },
-    "title": "Sippr m/Tailwind CSS",
-    "description": "Et Tailwind-prosjekt som bygger på eksamensprosjektet Sippr, en tekst- og bildedelingsplatform.",
-    "repository": "https://github.com/tominehaug/sippr-design"
-  },
-  {
-    "id": "4",
-    "image": {
       "src": "images/blitzbid.png",
       "alt": "Overview of BlitzBid auction site"
     },
     "title": "BlitzBid",
-    "description": "Figma design for en auksjonsside for musikkvarer. Laget for et nylig semesterprosjekt.",
-    "figma": "https://www.figma.com/design/71wdnwSR5EXs9ua2lVc9yS/BlitzBid?t=9LeYi6ghmOb8j2vr-0"
+    "description": "BlitzBid er en auksjonsside for musikkvarer som kombinerer lokalt lagrede data med en ekstern API-integrasjon for øvrige varer. HTML/JavaScript/Tailwind CSS. Eget design.",
+    "repository": "https://github.com/tominehaug/blitzbid",
+    "live": "https://tominehaug.github.io/blitzbid/"
+  },
+  {
+    "id": "4",
+    "image": {
+      "src": "images/tretten.png",
+      "alt": "Overview of start page for Tretten Online Shop"
+    },
+    "title": "Tretten Online Shop",
+    "description": "Tretten er en nettbutikk utviklet for et fag i JavaScript-rammeverk. Utviklet med React, Next.js og Zustand med TypeScript og Tailwind CSS. Hostet på Vercel. Eget design.",
+    "repository": "https://github.com/tominehaug/online-shop",
+    "live": "https://online-shop-lac-beta.vercel.app/"
   }
 ]
