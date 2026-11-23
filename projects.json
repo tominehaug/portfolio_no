@@ -29,7 +29,7 @@
     },
     "title": "BlitzBid",
     "description": "BlitzBid er en auksjonsside for musikkvarer med lokal JSON-data og ekstern API-integrasjon. HTML/JavaScript/Tailwind CSS. Eget design.",
-    "repository": "https://github.com/tominehaug/blitzbid",
+    "repository": "https://blitzbid.vercel.app",
     "live": "https://tominehaug.github.io/blitzbid/"
   },
   {
